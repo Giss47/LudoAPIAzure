@@ -7,7 +7,7 @@ using System.Linq;
 
 namespace LudoWebAPI.Controllers
 {
-    string test;
+
     [Route("api/[controller]")]
     [ApiController]
     public class LudoController : ControllerBase
